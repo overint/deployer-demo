@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('welcome', ['text' => 'Deployment 1']);
+    return view('welcome', ['text' => 'Deployment 2']);
 });
